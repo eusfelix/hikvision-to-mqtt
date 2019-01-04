@@ -1,5 +1,5 @@
 # hikvision-to-mqtt
-Send alarm events from Hikvision devices to MQTT
+Sends alarm events from Hikvision devices to MQTT.
 
 # Install
 ```

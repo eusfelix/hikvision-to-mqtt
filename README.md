@@ -7,7 +7,7 @@ npm install
 ```
 
 # Run
-I recommend you using pm2 for this shit.
+I recommend that you use pm2 for this shit.
 ```
 pm2 start main.js
 ```
